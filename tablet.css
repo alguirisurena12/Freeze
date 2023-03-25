@@ -1,0 +1,75 @@
+header {
+    
+    max-width: 1023px;
+    margin: 0;
+}
+
+img#logo {
+
+    min-width: 225px;
+    margin-left: 2rem;
+
+
+}
+
+a.menu {
+    
+    min-width: 20vw;
+    max-width: 50vw;
+    text-align: right;
+    margin-left: 10rem;
+    font-size: 1.6rem;
+    
+}
+
+
+
+main img {
+    display: block;
+    padding: 0;
+    margin: 0;
+    min-width: 425px;
+    max-width: 1023px;
+    max-height: 450px;
+    width: 100%;
+
+    
+}
+
+section#Healthy {
+    min-height: 12vh;
+
+}
+
+section#Healthy h1 {
+    font-size: 2rem;
+    margin-left: 30vw;
+    margin-left: 28vw;
+
+}
+
+section#Healthy h2 {
+    margin-left: 8vw;
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+
+}
+
+section#Healthy img {
+    
+    margin: 0;
+    margin-top: 3rem;
+    min-width: 425px;
+    max-width: 1023px;
+    max-height: 450px;
+    
+}
+
+footer {
+    min-height: 1vh;
+}
+
+footer a {
+    margin-left: 31vw;
+}
